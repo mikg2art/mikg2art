@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 📝 I'm Mikhail Gofman, a student at Darmstadt University of Applied Sciences.
+- 🛠 I like to create in-game systems and work on gameplay mechanics.
+- 💼 Right now I'm working on my portfolio to find a programming internship.
+
+Portfolio Website link will be soon provided
+
+
 <!--
 **mikg2art/mikg2art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
