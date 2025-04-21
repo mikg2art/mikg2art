@@ -2,9 +2,9 @@
 
 - 📝 I'm Mikhail Gofman, a student at Darmstadt University of Applied Sciences.
 - 🛠 I like to create in-game systems and work on gameplay mechanics.
-- 💼 Right now I'm working on my portfolio to find a programming internship.
+- 💼 Right now I'm to find a internship and developing my portfolio.
 
-Portfolio Website - [mikhail-gofman.com
+Find more inforamtion about my projects on my website - [mikhail-gofman.com
 ](https://mikhail-gofman.com/)
 
 <!--
